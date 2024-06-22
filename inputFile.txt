@@ -1,0 +1,5 @@
+634,Subaru,Forester,2018,45000.00
+238,BMW,1 series,2013,50099.99
+1257,Mercedes-Benz,190 E,1992,48000.00
+647,Toyota,Corolla,2022,40000.99
+645,Toyota,Camry,2023,55000.00
